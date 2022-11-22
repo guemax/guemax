@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guemax
-- 👀 I’m interested in Python, C++, WebDev and programming software
-- 🌱 I’m currently learning C++ and GDScript (of the Godot Engine)
+- 👀 I’m interested in Python, C++, programming and computers in general.
+- 🌱 I’m currently learning C++ to write my dream software... Stay tuned!
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
