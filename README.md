@@ -4,7 +4,7 @@ I started programming in Python, then switched to PHP and JavaScript for web dev
 
 * 🌍  I'm based in Germany
 * 🚀  I'm currently working on [Tracker - A command-line tool for tracking you computer usage time](http://https://github.com/guemax/tracker)
-* 🧠  I'm learning C++, moreover I am working with Django for a personal project
+* 🧠  I'm learning Django for a personal project
 
 ### Skills
 
