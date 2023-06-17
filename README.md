@@ -12,7 +12,7 @@
 
 * ✨ I'm creating bugs since 2020.
 * 📚 I'm currently learning Rust and a bit of Django.
-* 🎯 I'm working on a project called [Digital-Logbook: A command-line application for tracking your computer usage times](https://github.com/Digital-Logbook).
+* 🎯 I'm working on a project called [Digital Logbook: A command-line application for tracking your computer usage times](https://github.com/Digital-Logbook).
 
 ###
 
