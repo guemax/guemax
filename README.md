@@ -3,7 +3,7 @@ Hi 👋 My name is guemax
 I started programming in Python, then switched to PHP and JavaScript for web development, but returned to Python after a few months. I'm currently learning C++ to work on a project I've always wanted to do.
 
 * 🌍  I'm based in Germany
-* 🚀  I'm currently working on [Tracker - A command-line tool for tracking you computer usage time](http://https://github.com/guemax/tracker)
+* 🚀  I'm currently working on the [Digital Logbook - A command-line application for tracking you computer usage times](http://https://github.com/Digital-Logbook)
 * 🧠  I'm learning Django for a personal project
 
 ### Skills
