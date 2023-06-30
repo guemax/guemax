@@ -36,7 +36,7 @@
 
 ###
 
-Since I recently enabled vigilant mode, almost all commits before June 30, 2023 have been marked as "unverified". This is not a cause for concern. Learn more about [vigilant mode](https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits).
+Since I recently enabled vigilant mode, almost all commits before June 30, 2023 have been marked as "unverified". Learn more about [vigilant mode](https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits).
 
 ###
 
