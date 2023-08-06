@@ -14,7 +14,7 @@ $ echo $ABOUT_ME
 * 🏡 I am a programmer based in Germany.
 * 🐛 I am creating bugs since 2020.
 * 🗨️ I started using Python, made a few websites using HTML, CSS,
-     (a little bit of JavaScript and PHP, but switched back to
+     (a little bit of) JavaScript and PHP, but switched back to
      using Python and Django for some personal projects [1].
 * 📑 I am now working on The Digital Logbook, a command-line
      application for tracking your computer usage times [2].
