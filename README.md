@@ -23,9 +23,11 @@ $ echo $IMPORTANT_NOTICE
 Since I recently enabled vigilant mode, almost all commits before
 June 30, 2023 have been marked as "unverified". You can learn more
 about vigilant mode in the GitHub docs [3].
-```
 
-## Links
-* [1] [Endspurt](https://github.com/guemax/Endspurt)
-* [2] [The Digital Logbook](https://github.com/digital-logbook)
-* [3] [GitHub's vigilant mode](https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits)
+$ echo $OTHER_IMPORTANT_STUFF
+I've recently switched to Codeberg as my primary code hosting
+platform. Although I mirror some of my repositories to GitHub,
+main development happens at https://codeberg.org/guemax.
+
+Be sure to have a look at this page as well!
+```
