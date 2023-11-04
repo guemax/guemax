@@ -31,3 +31,5 @@ main development happens at https://codeberg.org/guemax.
 
 Be sure to have a look at this page as well!
 ```
+
+Also have a look at this: [guemax on Codeberg](https://codeberg.org/guemax).
